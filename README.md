@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Locate-party](https://github.com/LuiPJ/Locate-party)
-
 - 🌱 I’m currently learning **https://ru.hexlet.io/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuiPJ](https://github.com/LuiPJ)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mister.keyn@mail.ru**
+- 📫 How to reach me **mister.keyn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
